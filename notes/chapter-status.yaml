@@ -11,27 +11,27 @@ book:
 chapters:
   - id: foreword
     title: "前言：本書路線與安全邊界"
-    status: planned
+    status: draft
     owner: integrator
     draft: manuscript/00-foreword.md
   - id: ch01
     title: "安裝與初始設定"
-    status: planned
+    status: draft
     owner: codex
     draft: manuscript/ch01-installation.md
   - id: ch02
     title: "CLI 指令與用法"
-    status: planned
+    status: draft
     owner: codex
     draft: manuscript/ch02-cli.md
   - id: ch03
     title: "設定模型與 API Provider"
-    status: planned
+    status: draft
     owner: opencode
     draft: manuscript/ch03-model-provider.md
   - id: ch04
     title: "Skills 的建立與使用"
-    status: planned
+    status: draft
     owner: opencode
     draft: manuscript/ch04-skills.md
   - id: ch05
@@ -51,7 +51,7 @@ chapters:
     draft: manuscript/ch07-cron.md
   - id: ch08
     title: "Desktop、Dashboard 與 TUI"
-    status: planned
+    status: draft
     owner: codex
     draft: manuscript/ch08-surfaces.md
   - id: ch09
@@ -61,22 +61,22 @@ chapters:
     draft: manuscript/ch09-integrations.md
   - id: ch10
     title: "故障排除與維護"
-    status: planned
+    status: draft
     owner: hermes
     draft: manuscript/ch10-troubleshooting.md
   - id: appendix-a
     title: "指令速查表"
-    status: planned
+    status: draft
     owner: integrator
     draft: manuscript/a-command-reference.md
   - id: appendix-b
     title: "設定與秘密安全"
-    status: planned
+    status: draft
     owner: integrator
     draft: manuscript/b-security.md
   - id: appendix-c
     title: "讀者服務與回報問題"
-    status: planned
+    status: draft
     owner: integrator
     draft: manuscript/c-reader-support.md
 

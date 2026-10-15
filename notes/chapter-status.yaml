@@ -52,12 +52,12 @@ chapters:
   - id: ch08
     title: "Desktop、Dashboard 與 TUI"
     status: planned
-    owner: antigravity
+    owner: codex
     draft: manuscript/ch08-surfaces.md
   - id: ch09
     title: "MCP、Webhook 與 Plugin"
     status: planned
-    owner: antigravity
+    owner: opencode
     draft: manuscript/ch09-integrations.md
   - id: ch10
     title: "故障排除與維護"

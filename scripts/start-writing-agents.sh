@@ -16,9 +16,9 @@ require_cmd() {
 agent_prompt() {
   case "$1" in
     codex)
-      printf '%s' '讀取 AGENTS.md、notes/writing-plan.md、notes/agent-assignments.md。你負責第 1～2 章。撰寫 manuscript/ch01-installation.md、manuscript/ch02-cli.md 和 research/codex-ch01-ch02-sources.md。只修改自己的章節與研究檔，不修改共用狀態。使用目前官方文件和實際 CLI help 驗證命令。完成後執行 git diff --check，提交變更，並回報檔案、來源、實測命令、未驗證內容和 commit。';;
+      printf '%s' '讀取 AGENTS.md、notes/writing-plan.md、notes/agent-assignments.md。你負責第 1～2、8 章。撰寫 manuscript/ch01-installation.md、manuscript/ch02-cli.md、manuscript/ch08-surfaces.md 和 research/codex-ch01-ch02-ch08-sources.md。只修改自己的章節與研究檔，不修改共用狀態。使用目前官方文件和實際 CLI help 驗證命令，並標示 WSL 的 GUI 限制。完成後執行 git diff --check，提交變更，並回報檔案、來源、實測命令、未驗證內容和 commit。';;
     opencode)
-      printf '%s' '讀取 AGENTS.md、notes/writing-plan.md、notes/agent-assignments.md。你負責第 3～4 章。撰寫 manuscript/ch03-model-provider.md、manuscript/ch04-skills.md 和 research/opencode-ch03-ch04-sources.md。只修改自己的章節與研究檔，不修改共用狀態。驗證 hermes model、setup、auth、fallback、Skills Hub、SKILL.md 和 /learn。完成後執行 git diff --check，提交變更，並回報檔案、來源、實測命令、未驗證內容和 commit。';;
+      printf '%s' '讀取 AGENTS.md、notes/writing-plan.md、notes/agent-assignments.md。你負責第 3～4、9 章。撰寫 manuscript/ch03-model-provider.md、manuscript/ch04-skills.md、manuscript/ch09-integrations.md 和 research/opencode-ch03-ch04-ch09-sources.md。只修改自己的章節與研究檔，不修改共用狀態。驗證 hermes model、hermes setup、hermes auth、fallback、Skills Hub、SKILL.md、/learn、MCP、Webhook 和 Plugin。完成後執行 git diff --check，提交變更，並回報檔案、來源、實測命令、未驗證內容和 commit。';;
     pi)
       printf '%s' '讀取 AGENTS.md、notes/writing-plan.md、notes/agent-assignments.md。你負責第 5～7 章。撰寫 manuscript/ch05-delegation.md、manuscript/ch06-messaging.md、manuscript/ch07-cron.md 和 research/pi-ch05-ch07-sources.md。只修改自己的章節與研究檔，不修改共用狀態。重點驗證 delegate_task、Telegram／Discord 安全、Gateway 和 Cron。完成後執行 git diff --check，提交變更，並回報檔案、來源、實測命令、未驗證內容和 commit。';;
     *) die "未知 Agent：$1";;

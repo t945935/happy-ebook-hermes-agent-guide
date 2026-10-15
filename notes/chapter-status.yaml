@@ -1,0 +1,92 @@
+book:
+  slug: happy-ebook-hermes-agent-guide
+  title: "Hermes Agent 操作手冊"
+  subtitle: "從第一次安裝到多平台 AI 助理"
+  language: zh-Hant
+  author: "Happy eBook Authors"
+  publisher: "Happy eBook"
+  reader_service: "https://github.com/t945935/happy-ebook-hermes-agent-guide"
+  status: planning
+
+chapters:
+  - id: foreword
+    title: "前言：本書路線與安全邊界"
+    status: planned
+    owner: integrator
+    draft: manuscript/00-foreword.md
+  - id: ch01
+    title: "安裝與初始設定"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch01-installation.md
+  - id: ch02
+    title: "CLI 指令與用法"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch02-cli.md
+  - id: ch03
+    title: "設定模型與 API Provider"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch03-model-provider.md
+  - id: ch04
+    title: "Skills 的建立與使用"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch04-skills.md
+  - id: ch05
+    title: "多代理人與 delegate_task"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch05-delegation.md
+  - id: ch06
+    title: "Telegram、Discord 與其他訊息平台"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch06-messaging.md
+  - id: ch07
+    title: "Cron 排程"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch07-cron.md
+  - id: ch08
+    title: "Desktop、Dashboard 與 TUI"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch08-surfaces.md
+  - id: ch09
+    title: "MCP、Webhook 與 Plugin"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch09-integrations.md
+  - id: ch10
+    title: "故障排除與維護"
+    status: planned
+    owner: unassigned
+    draft: manuscript/ch10-troubleshooting.md
+  - id: appendix-a
+    title: "指令速查表"
+    status: planned
+    owner: integrator
+    draft: manuscript/a-command-reference.md
+  - id: appendix-b
+    title: "設定與秘密安全"
+    status: planned
+    owner: integrator
+    draft: manuscript/b-security.md
+  - id: appendix-c
+    title: "讀者服務與回報問題"
+    status: planned
+    owner: integrator
+    draft: manuscript/c-reader-support.md
+
+acceptance:
+  plan_created: true
+  chapter_inventory_matches_plan: true
+  all_chapters_have_reader_outcome: true
+  all_chapters_have_verification: true
+  all_chapters_have_recovery: true
+  official_sources_checked: false
+  manuscript_complete: false
+  editorial_review_complete: false
+  publication_artifacts_verified: false

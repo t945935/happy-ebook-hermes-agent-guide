@@ -9,6 +9,12 @@
 - 範例指令與補充資料
 - 版本更新與公告
 
+## 專案寫作資料
+
+- [寫作計劃與章節規格](notes/writing-plan.md)
+- [章節狀態](notes/chapter-status.yaml)
+- [Agent 交接規則](AGENTS.md)
+
 ## 讀者服務
 
 請使用 GitHub Issues 回報以下事項：

@@ -11,3 +11,5 @@ output/*
 # Secrets and local configuration
 .env
 *.local
+
+.agent-runs/

@@ -56,7 +56,7 @@ chapters:
     draft: manuscript/ch08-surfaces.md
   - id: ch09
     title: "MCP、Webhook 與 Plugin"
-    status: planned
+    status: draft
     owner: opencode
     draft: manuscript/ch09-integrations.md
   - id: ch10

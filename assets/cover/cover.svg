@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1800" height="2400" viewBox="0 0 1800 2400" xml:lang="zh-Hant" role="img" aria-labelledby="cover-title cover-desc">
+  <title id="cover-title">Hermes Agent 操作手冊：從第一次安裝到多平台 AI 助理</title>
+  <desc id="cover-desc">米白底、深藍書名與青綠流程線的獨立技術指南封面。作者 Happy eBook Authors，出版者 Happy eBook。</desc>
+  <rect width="1800" height="2400" fill="#F4F1E8"/>
+  <rect x="0" y="0" width="32" height="2400" fill="#16756B"/>
+  <g fill="none" stroke="#DADDD3" stroke-width="2">
+    <path d="M120 1080H1680 M120 1260H1680 M120 1440H1680 M120 1620H1680 M120 1800H1680 M120 1980H1680"/>
+    <path d="M240 1080V1980 M420 1080V1980 M600 1080V1980 M780 1080V1980 M960 1080V1980 M1140 1080V1980 M1320 1080V1980 M1500 1080V1980"/>
+  </g>
+  <g font-family="'Noto Sans CJK TC', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" fill="#142D3B">
+    <text x="120" y="340" font-size="184" font-weight="400">Hermes Agent</text>
+    <text x="112" y="690" font-size="340" font-weight="400">操作手冊</text>
+    <rect x="120" y="770" width="135" height="14" fill="#16756B"/>
+    <text x="120" y="900" font-size="78">從第一次安裝到多平台 AI 助理</text>
+  </g>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M420 1350H680Q750 1350 750 1420V1650Q750 1720 820 1720H1110" stroke="#16756B" stroke-width="24"/>
+    <path d="M750 1470H1110 M960 1470V1240Q960 1170 1030 1170H1290" stroke="#16756B" stroke-width="18"/>
+    <path d="M420 1540V1810Q420 1880 490 1880H1290" stroke="#142D3B" stroke-width="10"/>
+  </g>
+  <g stroke="#142D3B" stroke-width="8">
+    <rect x="180" y="1190" width="420" height="350" rx="26" fill="#142D3B"/>
+    <rect x="1110" y="1350" width="420" height="240" rx="26" fill="#F4F1E8"/>
+    <rect x="1110" y="1650" width="420" height="140" rx="26" fill="#F4F1E8"/>
+  </g>
+  <g fill="none" stroke="#F4F1E8" stroke-width="18" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M270 1300L335 1365L270 1430 M385 1430H490"/>
+  </g>
+  <g fill="none" stroke="#142D3B" stroke-width="10" stroke-linecap="round">
+    <path d="M1170 1410H1380 M1170 1470H1460 M1170 1530H1310 M1180 1720H1370"/>
+  </g>
+  <circle cx="1360" cy="1170" r="70" fill="#D86944"/>
+  <circle cx="1360" cy="1880" r="45" fill="#16756B"/>
+  <circle cx="750" cy="1470" r="28" fill="#F4F1E8" stroke="#16756B" stroke-width="14"/>
+  <path d="M120 2070H1680" fill="none" stroke="#142D3B" stroke-width="3"/>
+  <g font-family="'Noto Sans CJK TC', 'Noto Sans TC', 'PingFang TC', 'Microsoft JhengHei', sans-serif" fill="#142D3B">
+    <text x="120" y="2190" font-size="64">Happy eBook Authors</text>
+    <text x="120" y="2290" font-size="48">Happy eBook</text>
+  </g>
+</svg>

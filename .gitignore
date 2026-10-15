@@ -1,0 +1,13 @@
+# Generated book outputs
+output/*
+!output/.gitkeep
+
+# Local/editor files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+
+# Secrets and local configuration
+.env
+*.local

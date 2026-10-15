@@ -13,6 +13,7 @@
 
 - [寫作計劃與章節規格](notes/writing-plan.md)
 - [多 Agent 寫作分工](notes/agent-assignments.md)
+- [啟動實作 Runbook](notes/launch-runbook.md)
 - [章節狀態](notes/chapter-status.yaml)
 - [Agent 交接規則](AGENTS.md)
 
